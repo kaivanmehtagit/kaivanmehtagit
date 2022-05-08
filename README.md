@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaivanmehtagit
+- 👋 Hi, I’m Kaivan Mehta.
 - 👀 I’m interested in data science and software development.
 - 🌱 I’m currently learning machine learning and software engineering.
 - 💞️ I’m looking to collaborate on python scripting.
